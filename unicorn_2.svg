@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Unicorn body -->
+  <ellipse cx="32" cy="40" rx="18" ry="20" fill="#f0e0ff"/>
+  <!-- Unicorn legs -->
+  <rect x="20" y="48" width="4" height="14" fill="#e6c8ff"/>
+  <rect x="28" y="48" width="4" height="14" fill="#e6c8ff"/>
+  <rect x="36" y="48" width="4" height="14" fill="#e6c8ff"/>
+  <rect x="44" y="48" width="4" height="14" fill="#e6c8ff"/>
+  <!-- Unicorn head -->
+  <circle cx="22" cy="30" r="10" fill="#f0e0ff"/>
+  <!-- Unicorn horn -->
+  <polygon points="22,20 26,20 24,14" fill="#ffcc00"/>
+  <!-- Unicorn eye -->
+  <circle cx="18" cy="29" r="2" fill="#000"/>
+</svg>
